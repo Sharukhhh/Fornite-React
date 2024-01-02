@@ -1,6 +1,9 @@
-# Fortnite Static Webpage using Reactjs, Tailwind CSS
+## Fortnite Static Webpage using Reactjs, Tailwind CSS
 
-to run this : npm run dev
+
+# Steps to run the application
+1 - Move path to Frontend directory
+2 - To run app - npm run dev
 
 
 
